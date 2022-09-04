@@ -1,0 +1,44 @@
+Data		04/09/2022 15:28:11
+Log		Coleta de Auditoria (Audit-20220904-122703)
+
+Hora do Evento 	15:28:11.1140385
+Nome da Instância do Servidor	DESKTOP-6L5SU7Q\SQLEXPRESS
+ID de Ação		AUDIT SESSION CHANGED
+Tipo de Classe	SERVER AUDIT
+Número de Sequência	1
+Êxito		True
+Máscara de Bits de Permissão	0x00000000000000000000000000000000
+Permissão de Coluna	False
+ID da Sessão	54
+ID da Entidade de Segurança do Servidor	259
+ID da Entidade do Banco de Dados	0
+ID da Entidade de Segurança do Servidor de Destino	0
+ID da Entidade do Banco de Dados de Destino	0
+ID do Objeto	0
+Nome da Entidade de Segurança do Servidor da Sessão	DESKTOP-6L5SU7Q\AfranioDimas
+Nome da Entidade de Segurança do Servidor	DESKTOP-6L5SU7Q\AfranioDimas
+SID da Entidade de Segurança do Servidor	0x0105000000000005150000005086EEB60175ADFA4BB35365E9030000
+Nome da Entidade do Banco de Dados	
+Nome da Entidade de Segurança do Servidor de Destino	
+SID da Entidade de Segurança do Servidor de Destino	NULL
+Nome da Entidade do Banco de Dados de Destino	
+Nome do Banco de Dados	
+Nome do Esquema	
+Nome do Objeto	
+Instrução		
+Informações Adicionais	<action_info xmlns="http://schemas.microsoft.com/sqlserver/2008/sqlaudit_data"><session><![CDATA[Audit-20220904-122703$A]]></session><action>event enabled</action><startup_type>manual</startup_type><object><![CDATA[audit_event]]></object></action_info>
+Nome do Arquivo	C:\AuditoriaExemplo\Audit-20220904-122703_1E4FBB7F-1065-4ACF-9BEF-3DDB1134E9C2_0_133067788911040000.sqlaudit
+Deslocamento de Arquivo	6144
+ID de Evento Definido pelo Usuário	0
+Informações Definidas pelo Usuário	
+ID do Grupo de Sequências	0x00000000000000000000000000000000
+ID de Transação	0
+IP do Cliente	local machine
+Nome do Aplicativo	Microsoft SQL Server Management Studio
+Linhas Afetadas	0
+Linhas de Resposta	0
+ID da Conexão	def5e938-bab5-40f6-b8ac-89d11d279e5f
+Duração em Milissegundos	0
+Informações sobre Confidencialidade de Dados	
+
+Mensagem
